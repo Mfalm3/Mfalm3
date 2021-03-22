@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a fullstack developer
+
+- 🔭 I’m currently working on [Rental Management System](https://github.com/Mfalm3/Rental-Management-System)
+- 🌱 I’m currently learning TailwindCss, Alpine and Livewire (TALL Stack)
+
+## Most languages used
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfalm3&show_icons=true" />
+</a>
+
+## Mfalm3's Stats
+[![Mfalm3's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfalm3&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
