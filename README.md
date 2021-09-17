@@ -19,9 +19,9 @@ I am a fullstack developer
 - 🔭 I’m currently working on [Rental Management System](https://github.com/Mfalm3/Rental-Management-System)
 <!-- 
 - 🎓 I’m currently learning TailwindCss, Alpine and Livewire (TALL Stack)
--->
-- 🌍 Porfolio can be found [here](https://www.jkrafts.com)
 
+- 🌍 Porfolio can be found [here](https://www.jkrafts.com)
+-->
 ## Most languages used
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
