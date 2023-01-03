@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 I am a fullstack developer
 
+<!--
 - 🔭 I’m currently working on [Rental Management System](https://github.com/Mfalm3/Rental-Management-System)
-<!-- 
+ 
 - 🎓 I’m currently learning TailwindCss, Alpine and Livewire (TALL Stack)
 
 - 🌍 Porfolio can be found [here](https://www.jkrafts.com)
