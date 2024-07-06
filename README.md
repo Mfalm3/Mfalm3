@@ -35,3 +35,5 @@ I am a fullstack developer
 [![Mfalm3's GitHub stats](https://github-readme-stats-murex-theta.vercel.app/api?username=mfalm3&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![wakatime](https://wakatime.com/badge/user/e317a32d-8f86-48e6-93bf-1b937c842551.svg)](https://wakatime.com/@e317a32d-8f86-48e6-93bf-1b937c842551)
+
+![](https://komarev.com/ghpvc/?username=mfalm3&label=Views&style=flat)
